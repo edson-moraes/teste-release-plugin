@@ -71,4 +71,7 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	<scm>
+		<developerConnection>scm:git:https://github.com/edson-moraes/teste-release-plugin.git</developerConnection>
+	</scm>
 </project>
